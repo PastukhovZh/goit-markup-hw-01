@@ -10,7 +10,18 @@ button {
     cursor: pointer;
     border: none;
 }
+.container {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 2px solid tomato;
+    width: 400px;
+    }
+    
+.header-wrap{
 
+}
 .menu-link {
     color: #fff;
     
